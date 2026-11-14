@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Malaria dataset - keep image files local
+/dataset/original/Parasitized/
+/dataset/original/Uninfected/
